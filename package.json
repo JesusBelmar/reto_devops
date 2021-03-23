@@ -1,0 +1,19 @@
+{
+  "name": "basicservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docker": "^1.0.0",
+    "express": "^4.17.1",
+    "nodeapp": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
